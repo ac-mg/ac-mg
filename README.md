@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ac-mg
+- 👀 I’m interested in mobile devlopement
+- 🌱 I’m currently learning python
